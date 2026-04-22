@@ -1,4 +1,4 @@
-<h3 align="center">DevOps | Infrastructure, Automation, & Cloud</h3>
+<h2 align="center">DevOps | Infrastructure, Automation, & Cloud</h3>
 
 ### About Me
 Grounded in Linux and networking, with practical Bash scripting experience and a working knowledge of how traffic flows, gets routed, and breaks. Hands-on with AWS for cloud fundamentals.
